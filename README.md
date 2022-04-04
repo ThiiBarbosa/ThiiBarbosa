@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ThiiBarbosa
 
-Formado em Análise e desenvolvimento de sistemas e atualmente focado em desenvolvimento web.
 
 <!---
 ThiiBarbosa/ThiiBarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
